@@ -8,5 +8,6 @@ namespace Institucion2.Model
 {
     interface IEnteInstituto
     {
+        public string CodigoInterno { get; set; }
     }
 }

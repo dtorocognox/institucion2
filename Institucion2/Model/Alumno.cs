@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Institucion2.Model
 {
-    class Alumno: Persona
+
+    public class Alumno: Persona
     {
+        public EstadosAlumno Estado { get; set; }
         public string Email { get; set; }
         public string NickName { get; private set; }
 

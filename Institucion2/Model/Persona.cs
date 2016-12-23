@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Institucion2.Model
 {
-    public abstract class Persona
+    public abstract class Persona: IEnteInstituto
     {
         public static int ContadorPersonas = 0;
         public int Id { get; set; }
@@ -27,12 +27,27 @@ namespace Institucion2.Model
 
         }
 
+        public string CodigoInterno
+        {
+            get;
+
+            set;
+        }
+
         public Persona()
         {
             ContadorPersonas++;
         }
 
         public abstract string ConstruirResumen();
+
+        public string ConstruirLlaveSecreta(string nombreEnte)
+        {
+            nombreEnte = "nuevo Valor";
+            var rnd = new Random();
+            
+            return rnd.Next(1, 998457).ToString();
+        }
     }
 
 }

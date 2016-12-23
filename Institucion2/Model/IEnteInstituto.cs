@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Institucion2.Model
 {
-    interface IEnteInstituto
+    public interface IEnteInstituto
     {
-        public string CodigoInterno { get; set; }
+        string CodigoInterno { get; set; }
+
+        string ConstruirLlaveSecreta(string nombreEnte);
     }
 }

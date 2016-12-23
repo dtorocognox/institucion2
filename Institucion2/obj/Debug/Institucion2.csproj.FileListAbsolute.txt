@@ -1,6 +1,11 @@
 d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\bin\Debug\Institucion2.exe.config
 d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\bin\Debug\Institucion2.exe
 d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\bin\Debug\Institucion2.pdb
-d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\obj\Debug\Institucion2.csprojResolveAssemblyReference.cache
 d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\obj\Debug\Institucion2.exe
 d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\obj\Debug\Institucion2.pdb
+d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\bin\Debug\Files\Profesores.txt
+d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\obj\Debug\Institucion2.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\bin\Debug\EntityFramework.dll
+d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\bin\Debug\EntityFramework.SqlServer.dll
+d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\bin\Debug\EntityFramework.xml
+d:\documentos\visual studio 2015\Projects\Institucion2\Institucion2\bin\Debug\EntityFramework.SqlServer.xml
